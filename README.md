@@ -40,7 +40,7 @@ this is tristan
 
 say hi
 
-hi tridan
+hi tristan!
 
 
 
